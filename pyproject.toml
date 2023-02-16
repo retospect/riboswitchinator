@@ -7,7 +7,7 @@ name = "riboswitchinator"
 authors = ["Reto Stamm"]
 description = "Tool to generate riboswitches for specific sequences"
 readme = "README.md"
-version = "0.0.1"
+version = "0.0.2"
 keywords = ["riboswitch", "genetics"]
 license = "GPL-3"
 classifiers = [ "Programming Language :: Python :: 3", ]
@@ -17,7 +17,7 @@ homepage="https://github.com/retospect/riboswitchinator"
 swin = "riboswitchinator.executable:switchinator_main"
 
 [tool.bumpver]
-current_version = "0.0.1"
+current_version = "0.0.2"
 version_pattern = "MAJOR.MINOR.PATCH"
 commit_message = "bump version {old_version} -> {new_version}"
 commit = true
