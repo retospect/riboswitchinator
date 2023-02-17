@@ -13,6 +13,9 @@ license = "GPL-3"
 classifiers = [ "Programming Language :: Python :: 3", ]
 homepage="https://github.com/retospect/riboswitchinator"
 
+[tool.poetry.dependencies]
+ViennaRNA = "*"
+
 [tool.poetry.scripts]
 swin = "riboswitchinator.executable:switchinator_main"
 
