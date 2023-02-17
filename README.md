@@ -1,6 +1,6 @@
 # Switchinator
 
-
+[![check](https://github.com/retospect/riboswitchinator/actions/workflows/check.yml/badge.svg)](https://github.com/retospect/riboswitchinator/actions/workflows/check.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7647667.svg)](https://doi.org/10.5281/zenodo.7647667)
 
 
